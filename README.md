@@ -28,4 +28,4 @@ This repository contains a dynamic Sales Dashboard built using *Microsoft Power 
 ---
 
 ##  Screenshot
-![image alt]()
+![image alt](https://github.com/Aravindhan1506/Power-BI-sales-dashboard/blob/9567c605bd3b7d4e03e8c82a7cebf741b9b4c29e/Screenshot%202025-07-03%20110110.png)
