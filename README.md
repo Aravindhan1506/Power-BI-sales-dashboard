@@ -1,2 +1,31 @@
-# Power-BI-sales-dashboard
-This project presents a comprehensive Sales Dashboard built using Microsoft Power BI. It provides visual insights into total sales, orders, returns, product categories, payment methods, and region-wise sales. The dashboard helps stakeholders quickly analyze trends, performance, and sales distribution for better decision-making.
+# 🧾 Power BI Sales Dashboard
+
+This repository contains a dynamic Sales Dashboard built using *Microsoft Power BI*. It visually represents key sales performance metrics across different product categories and geographic regions, providing valuable insights to stakeholders and management teams.
+
+---
+
+## 📊 Features
+
+- *Total Sales:* ₹83.51M displayed prominently
+- *Order Volume:* 28.76K orders processed
+- *Total Quantity Sold:* 39K items
+- *Returns:* 317 returned items tracked
+- *Category-wise Sales:* Detailed breakdown for Clothing, Electronics, and Furniture
+- *Payment Methods:* Orders split by COD, UPI, Credit/Debit Cards, EMI
+- *Monthly Sales Trend:* Line graph showing growth from 2021 to 2023
+- *Geographical Sales Data:* Map showing sales distribution across U.S. states
+- *Interactive Filters:* Category and State-based filtering for refined analysis
+
+---
+
+## 🛠 Tools Used
+
+- *Microsoft Power BI*  
+- DAX (Data Analysis Expressions)  
+- Power Query for data transformation  
+- Custom Visuals and Slicers  
+
+---
+
+##  Screenshot
+![image alt]()
